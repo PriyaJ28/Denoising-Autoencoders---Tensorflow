@@ -1,2 +1,2 @@
-# Denoising-Autoencoders---Tensorflow
+# Denoising-Autoencoders
 Image Noise Reduction with Auto-encoders
